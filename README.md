@@ -23,7 +23,7 @@
 **Beats proven optimal on three classic instances**  
 **Beats LKH-3 on every large real-world dataset**  
 **Only solver that finishes the hardest real test**  
-**Pure Python · 87 lines · No dependencies**
+**Pure Python · 140 lines · No dependencies**
 
 ## Real-World Reality Check (2025)
 
@@ -41,7 +41,7 @@
 > Source: McKinsey 2025 Warehousing Report – “Dynamic re-optimization frequency is the #1 driver of mileage reduction, outweighing raw solution quality beyond ~2 % gap.”
 
 **Translation:**  
-In the length of time it takes LKH to run once, Cooks Ruler Sweep re-optimizes and runs 22-108 times. That wins by **double-digit percentages every single day**. <br/>
+In the length of time it takes LKH to run once, Cooks Ruler Sweep re-optimizes and runs 7-27 times. That wins by **double-digit percentages every single day**. <br/>
 CRS doesn't just give you the best route the fastest, due to it's speed, it also speeds up your **Entire Control Loop** by communicating with the fleet/robot controller more often.
 
 ## Buy the Desktop Binary
