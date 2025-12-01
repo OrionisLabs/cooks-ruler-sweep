@@ -16,7 +16,7 @@
 | euclidean_1000           | 1,002  | **252,488**  | 259,048      | **+2.6 % better**  |11.5s             |10 s           | Same as pr1002           |
 | rl5915 (TSPLIB)          | 5,915  | 599,440      | 565,769      | –5.9 %             |23.8 min          |7.7 min        | Only loss (still fast)   |
 | d18512 (German cities)   | 8,513  | **318,214**  | 331,640      | **+4.2 % better**  |104 min           |21.9 min       | Crushes LKH              |
-| euclidean_10000          | 9,995  | 1,124,202    | 1,231,413    | **+16.5 % better**  |3 hours           |26.8 min       | LKH took 3+ hours       |
+| euclidean_10000          | 9,995  | 1,124,202    | 1,231,413    | **+7.9 % better**  |3 hours           |26.8 min       | LKH took 3+ hours       |
 | Chicago Divvy 2025 (real)| 10,000 | **283.5**    | **failed**   | **LKH/OR-Tools dead** |92 min         |3.4 min        | Only solver that works   |
 | Global Airports (5k)     | 5,000  | **379,264**  | **6,573**    | **LKH used wrong metric** |130.8 min  |5.2 min        | Only correct solver      |
 
