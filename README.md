@@ -36,9 +36,8 @@
 
 | Solver              | Runtime          | Re-optimizations in LKH time |
 |---------------------|------------------|-------------------------------|
-| Cook’s Ruler Sweep  | 3.4–27 minutes   | —                             |
-| LKH-3 tuned         | 10+ hours        | 1×                            |
-| Cook’s Ruler Sweep  | 3.4–27 minutes   | **7-27×**                   |
+| LKH-3 tuned         | 191-92 minutes   | 1×                            |
+| Cook’s Ruler Sweep  | 26.8-3.4 minutes | **7-27×**                     |
 > Source: McKinsey 2025 Warehousing Report – “Dynamic re-optimization frequency is the #1 driver of mileage reduction, outweighing raw solution quality beyond ~2 % gap.”
 
 **Translation:**  
