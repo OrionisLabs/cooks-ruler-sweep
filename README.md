@@ -1,4 +1,4 @@
-# Vector — Early Bird Pre-Order Now!
+# Vector Desktop Edition— Early Bird Pre-Order Now!
 
 **Benchmark Table (Flat Space, 2025)**  
 | Dataset                              | Points | Vector Open Tour Length | Vector's Gap vs BKS | Vector's Runtime |
@@ -34,7 +34,7 @@
 
 ---
 
-- Self-Hosted Server: **$29,999** one-time  (Coming Soon)
+- Self-Hosted Server with API: **$29,999** one-time  (Coming Soon)
 - Custom Tailored Enterprise Tuning: **$99,000** one-time (Coming Soon)
 
 ---
