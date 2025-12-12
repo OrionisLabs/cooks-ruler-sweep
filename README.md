@@ -38,6 +38,11 @@
 - Custom Tailored Enterprise Tuning: **$99,000** one-time (Coming Soon)
 
 ---
+- Feel free to download the **Free version** binary above and test it on your data yourself. <br/>
+- It doesn't contain as good of performance as the paid version or all the extra features. <br/>
+- Even the Free version probably improves your data once you test it.
+
+---
 
 #TSP #Optimization #PCB #Warehouse #LaserCutting
 
