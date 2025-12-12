@@ -1,25 +1,41 @@
-# Cook's Ruler Pro — Pre-Order Now!
-
-Watch our optimizer transform chaos into perfection:
-[Video Link] (upload to YouTube unlisted, embed)
+# Vector — Early Bird Pre-Order Now!
 
 **Benchmark Table (Flat Space, 2025)**  
-| Dataset   | Points | Cook's Ruler Open | NN+2-opt Open | Cook's Gap vs BKS | NN Gap vs BKS | Cook's Runtime | NN Runtime |
-|-----------|--------|-------------------|---------------|-------------------|--------------|---------------|------------|
-| pr1002    | 1,002  | 291,195           | ~580,000      | +12.4 %           | +124 %       | 6.89 s        | 0.5 s      |
-| rl5915    | 5,915  | 649,337           | ~1,020,000    | +14.9 %           | +80 %        | 638 s         | 2 s        |
-| euclidean_1k | 1,000 | 289,030        | ~2,500,000    | +76.5 %           | +100 %       | 26.75 s       | 0.4 s      |
-| pla33810  | 33,810 | (running)         | (running)     | (update)          | (update)     | (update)      | (update)   |
+| Dataset                              | Points | Vector Open Tour Length | Vector's Gap vs BKS | Vector's Runtime |
+|--------------------------------------|--------|-------------------------|---------------------|------------------|
+| pr1002                               | 1,002  | 281,998                 | +9.0 %              | 5 seconds        | 
+| euclidean 10k (random synthetic)     | 9,995  | 1,356,762               | +10 %               | 12.6 minutes     |
+| d18512                               | 18,512 | 717,907                 | +12 %               | 53 minutes       | 
+| pla33810                             | 33,810 | 74,205,414              | +12 %               | 3.8 hours        |
 
-**Why Choose Cook’s Ruler?**
+**Why Choose Vector?**
 - **Plug & Play**: Boosts your existing CAD, WMS, or CAM software.
 - **No Cloud**: 100% offline, secure.
 - **No Tuning**: One-click optimization.
-- Beats NN by 50–100%, outpaces OR-Tools by 10–20%.
+- **One Time License fee**: Pay once, unlimited license, never expires.
+- Auto detects lattitude/longitutde and X/Y data types.
+- Auto detects and switches between CSV, DXF, G-Code, and JSON inputs.
+- Outputs the to CSV, DXF, G-Code, JSON, and Google Maps
+- Outpaces OR-Tools by 10–20%.
+- Tour Report (length, gap, crossings, time saved)
+- Free updated versions, **same license key**
 
-**Pre-Order Now!**
-- Early Bird: $999 (48 hours only)
-- [Lemon Squeezy Link] (setup at lemonsqueezy.com)
-- Full Price: $2,999 after launch (Dec 20, 2025)
+**Early Bird Pre-Order Now! $999 (72 hours only)**
+
+[Lemon Squeezy Link] (setup at lemonsqueezy.com)
+
+  ---
+  
+-Pre-Order : $1,999 until launch (Jan 29, 2026)
+
+---
+
+-After Launch : $2,999 full price
+
+---
 
 #TSP #Optimization #PCB #Warehouse #LaserCutting
+
+---
+
+Orionis Labs 2025
